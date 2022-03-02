@@ -1,5 +1,13 @@
 # xstate
 
+## 4.30.4
+
+### Patch Changes
+
+- [#3104](https://github.com/statelyai/xstate/pull/3104) [`3706c62f4`](https://github.com/statelyai/xstate/commit/3706c62f49daa5cf84172713a004eb26704342f5) Thanks [@Andarist](https://github.com/Andarist)! - Fixed `ContextFrom` helper type to work on typegened machines.
+
+* [#3104](https://github.com/statelyai/xstate/pull/3104) [`3706c62f4`](https://github.com/statelyai/xstate/commit/3706c62f49daa5cf84172713a004eb26704342f5) Thanks [@Andarist](https://github.com/Andarist)! - Fixed `EventFrom` helper type to work on machines.
+
 ## 4.30.3
 
 ### Patch Changes
